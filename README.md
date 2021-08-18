@@ -1,18 +1,16 @@
 ## 你好呀，MY Friends
-You can use the [editor on GitHub](https://github.com/renqingya/renqingya.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+欢迎参观我的主页，没错，说的就是你， 嘿嘿🤭
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 介绍一下
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+ 我叫肖帅，网名人情（用了好久了，懒得改了），武纺大学服装学院中日服设系专业2021级学生，男，汉族，02年8月14日出生于北京房山。
+嘻嘻
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 联系方式
+## qq：1135507147  
+### 邮箱：1135507147@qq.com
 
 - Bulleted
 - List
