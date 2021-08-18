@@ -1,22 +1,29 @@
 ## 你好呀，MY Friends
-欢迎参观我的主页，没错，说的就是你， 嘿嘿🤭
+欢迎参观我的主页，没错！！说的就是你！！！ 诶诶诶 别走啊
 
 ### 介绍一下
 
- 我叫肖帅，网名人情（用了好久了，懒得改了），武纺大学服装学院中日服设系专业2021级学生，男，汉族，02年8月14日出生于北京房山。
+我叫肖帅，网名人情（用了好久了，懒得改了），武纺大学服装学院中日服设系专业2021级学生，
+男
+汉族
+02年8月14日
+出生于北京房山，美丽的首都
 嘻嘻
-```markdown
-Syntax highlighted code block
+```markdown  
+# 玛卡巴卡
+    我是一个在学习上勤奋刻苦，对待工作认真负责的人。虽然我平时不善于表现自己，但我有一颗踏实做人、踏实做事的心，我也始终坚信，天道酬勤，思者常新，多一份耕耘，多一份收获，
+只要我付出了足够的努力，就算现在没有看到直接的收益，将来也一定会得到回报。
+正因为坚持着这样一种信念，在大学里，我也在奋斗、思考、追求进步中证明自己：在学习上，我获得了两次西南大学奖学金；在工作上，我获得了“优秀班干部”的称号；而在其他方面，我也最
+大限度的完善自己，充实自己，千方百计地提高自己的竞争实力，并获得了一些比赛的奖项。现在对于初踏上讲台的我，更要好好对待教师这份崇高的职业，机遇和成功往往垂青于孜孜以求的勤
+勉者，我就要做这样一个勤奋求知、不怕失败的人，既然自己某方面存在不足，为什么不用自己的努力去弥补呢？我也在努力的过程中不断思考自己的一言一行，一步一个脚印，踏踏实实走下去，
+做一名优秀的纺大学子。
 
-# 联系方式
-## qq：1135507147  
-### 邮箱：1135507147@qq.com
+　　天道酬勤，有付出就有收获；思者常新，有思考就有进步。
+　　我来此求学，希望能得到师长和同学的教诲。我要让自己的大学生活很充实，不要空虚和无聊；我要时刻保持一种“饥渴感”，对知识的饥渴，对生活的饥渴。
 
-- Bulleted
-- List
+　　我认为出海有个很好的好处，可以给我一个空间，让我静下来，读书。我不知道能不能带些书到船上。但我曾幻想，自己在海风中看书，在海浪边写日记。我比较喜欢看文学方面的书，感觉这样的生活很理想。
 
-1. Numbered
-2. List
+　　谢谢大家！
 
 **Bold** and _Italic_ and `Code` text
 
@@ -25,10 +32,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/renqingya/renqingya.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+###  联系方式
+ 1）qq：1135507147  
+ 2）邮箱：1135507147@qq.com
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
